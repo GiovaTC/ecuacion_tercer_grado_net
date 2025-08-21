@@ -1,5 +1,3 @@
-# ecuacion_tercer_grado_net
-
 # Programa en C# para resolver ecuaciones cúbicas
 
 Este programa de consola en C# resuelve una ecuación de tercer grado de la forma:
